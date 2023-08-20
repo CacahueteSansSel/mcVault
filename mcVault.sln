@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mcVault", "mcVault\mcVault.csproj", "{DD5DF3EA-EB11-47E0-8A38-500B3F7EE5A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cacahuete.MinecraftLib", "mcLaunch\Cacahuete.MinecraftLib\Cacahuete.MinecraftLib.csproj", "{B06CD3BA-9FC8-4E7E-B115-F76682307905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{DD5DF3EA-EB11-47E0-8A38-500B3F7EE5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD5DF3EA-EB11-47E0-8A38-500B3F7EE5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD5DF3EA-EB11-47E0-8A38-500B3F7EE5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06CD3BA-9FC8-4E7E-B115-F76682307905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06CD3BA-9FC8-4E7E-B115-F76682307905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06CD3BA-9FC8-4E7E-B115-F76682307905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06CD3BA-9FC8-4E7E-B115-F76682307905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
